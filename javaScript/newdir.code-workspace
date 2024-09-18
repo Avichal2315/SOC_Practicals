@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../newdir"
+		},
+		{
+			"path": "../Assignment"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"Q.C": "cpp",
+			"random": "c"
+		}
+	}
+}
